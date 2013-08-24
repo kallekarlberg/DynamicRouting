@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Implementation-Title: DynamicRouting
+Implementation-Version: 0.5.0
+TAG: DynamicRouting_0_5_0_3
+CvsWebPath: personal/kkarlberg/DynamicRouting
+TargetJDK: 1.6
+Build: 3
+Build-date: Wed Jun 22 12:22:38 CEST 2011
+Project-status: Release
+Last_build_by: kkarlberg
+kkarlberg: 1
+VCS_branch: HEAD
+unknowndev-build: 1
+kkarlberg-build: 2
+

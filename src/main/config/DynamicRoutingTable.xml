@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Grid>
+	<System name="PTS" type="PES">
+		<Link order="1">
+			<WsdlUrl>http://localhost:4711/</WsdlUrl>
+		</Link>
+		<Link order="2">
+			<WsdlUrl>http://localhost:4712/</WsdlUrl>
+		</Link>
+	</System>
+	<System name="EFTOnline" type="PES">
+		<Link order="1">
+			<WsdlUrl>http://localhost:4999/</WsdlUrl>
+		</Link>
+		<Link order="2">
+			<WsdlUrl>http://localhost:4998/</WsdlUrl>
+		</Link>
+	</System>
+</Grid>
